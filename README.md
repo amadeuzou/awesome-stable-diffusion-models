@@ -15,6 +15,17 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Usage | https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2017  <br> https://rentry.org/voldy#-novelai-setup-|
 | Resources | https://www.reddit.com/r/NovelAi/ <br> https://docs.qq.com/doc/DWHl3am5Zb05QbGVs |
 
+## [Inpainting Model by Runway](https://runwayml.com/)
+
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author |[runwayml](https://github.com/runwayml) |
+| Example | ![](https://github.com/runwayml/stable-diffusion/raw/main/assets/inpaintingbanner.png) |
+| Model | https://github.com/runwayml/stable-diffusion#inpainting-with-stable-diffusion |
+| Usage | https://github.com/runwayml/stable-diffusion |
+| Resources |  |
+
 
 ## [waifu-diffusion](https://github.com/harubaru/waifu-diffusion)
 
