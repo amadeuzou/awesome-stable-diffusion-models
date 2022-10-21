@@ -24,7 +24,8 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Example | ![](https://github.com/runwayml/stable-diffusion/raw/main/assets/inpaintingbanner.png) |
 | Model | https://github.com/runwayml/stable-diffusion#inpainting-with-stable-diffusion |
 | Usage | https://github.com/runwayml/stable-diffusion |
-| Resources |  |
+| Resources | https://huggingface.co/runwayml/stable-diffusion-inpainting |
+| Demo | https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting |
 
 
 ## [waifu-diffusion](https://github.com/harubaru/waifu-diffusion)
@@ -60,3 +61,12 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Usage |  |
 | Resources | |
 
+## [Archer Diffusion](https://www.reddit.com/r/StableDiffusion/comments/y964ya/new_dreambooth_model_archer_diffusion_download/)
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author | [Nitrosocke](https://www.reddit.com/user/Nitrosocke/) |
+| Example | ![](https://huggingface.co/nitrosocke/archer-diffusion/resolve/main/archer-diffusion-samples4s.png) |
+| Model | https://drive.google.com/drive/folders/19pI70Ilfs0zwz1yYx-Pu8Q9vlOr9975M?usp=sharing |
+| Usage |  |
+| Resources | https://huggingface.co/nitrosocke/archer-diffusion |
