@@ -70,3 +70,13 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Model | https://drive.google.com/drive/folders/19pI70Ilfs0zwz1yYx-Pu8Q9vlOr9975M?usp=sharing |
 | Usage |  |
 | Resources | https://huggingface.co/nitrosocke/archer-diffusion |
+
+## [Arcane Diffusion](https://www.reddit.com/r/StableDiffusion/comments/ybqyad/arcane_diffusion_v3_updated_dreambooth_model_now/)
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author | [Nitrosocke](https://www.reddit.com/user/Nitrosocke/) |
+| Example | ![](https://preview.redd.it/alpk01i0zlv91.jpg?width=1536&format=pjpg&auto=webp&s=c0bd959d31c1d7837378db819250439595ee17e0) |
+| Model | https://huggingface.co/nitrosocke/Arcane-Diffusion |
+| Usage |  |
+| Resources | https://huggingface.co/nitrosocke/Arcane-Diffusion |
