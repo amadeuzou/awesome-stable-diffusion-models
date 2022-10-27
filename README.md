@@ -80,3 +80,14 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Model | https://huggingface.co/nitrosocke/Arcane-Diffusion |
 | Usage |  |
 | Resources | https://huggingface.co/nitrosocke/Arcane-Diffusion |
+
+## [Spider-Verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion)
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author | [Nitrosocke](https://www.reddit.com/user/Nitrosocke/) |
+| Example | ![](https://huggingface.co/nitrosocke/spider-verse-diffusion/resolve/main/spiderverse-portraits-small.jpg) |
+| Model | https://huggingface.co/nitrosocke/spider-verse-diffusion |
+| Usage |  |
+| Resources | https://huggingface.co/nitrosocke/spider-verse-diffusion |
+
