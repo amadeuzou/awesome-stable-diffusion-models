@@ -91,3 +91,22 @@ This is a list of software and resources for the [Stable Diffusion](https://stab
 | Usage |  |
 | Resources | https://huggingface.co/nitrosocke/spider-verse-diffusion |
 
+## [Modern Disney Diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author | [Nitrosocke](https://www.reddit.com/user/Nitrosocke/) |
+| Example | ![](https://huggingface.co/nitrosocke/mo-di-diffusion/resolve/main/modern-disfusion-samples-01s.jpg) |
+| Model | https://huggingface.co/nitrosocke/mo-di-diffusion |
+| Usage |  |
+| Resources | https://huggingface.co/nitrosocke/mo-di-diffusion |
+
+## [Cyberpunk Anime Diffusion](https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion)
+| Item | Content |
+|---|---|
+| Introduce |  |
+| Author | [DGSpitzer](https://huggingface.co/DGSpitzer) |
+| Example | ![](https://huggingface.co/nitrosocke/mo-di-diffusion/resolve/main/modern-disfusion-samples-01s.jpg) |
+| Model | https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion |
+| Usage |  |
+| Resources | https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion |
